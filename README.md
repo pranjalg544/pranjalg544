@@ -36,6 +36,3 @@
 **Computer Vision Intern — Pracverse** (April 2026 – August 2026)
 Studied and implemented gesture-controlled drone systems, building hand-tracking and gesture-recognition pipelines with OpenCV and MediaPipe to translate hand gestures into real-time flight commands.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranjalg544&show_icons=true&theme=default" alt="Pranjal's GitHub stats" />
-</p>
